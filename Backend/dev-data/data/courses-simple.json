@@ -1,0 +1,90 @@
+[
+  {
+    "courseCode": "CS204",
+    "courseName": "Programming Fundamentals",
+    "courseDuration": 10,
+    "courseContent": [
+      {
+        "topicName": "Introduction To C++",
+        "topicDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas interdum enim eget lectus dapibus, nec ultricies ligula posuere. Nam sed velit accumsan, volutpat eros eu, lacinia ante. Sed id nulla a ex aliquam ultricies. Sed tempus est eu turpis aliquam, in tincidunt leo tincidunt. Nunc lobortis nisl eu dolor maximus luctus. Suspendisse semper non risus ut pretium. Nulla fringilla lorem ac libero ullamcorper dapibus. Mauris porttitor sapien sed scelerisque posuere. Curabitur in elit imperdiet, tempor lorem sit amet, viverra nulla. Nunc elementum, nisi sit amet gravida bibendum, dui libero blandit urna, id convallis turpis massa ut massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "topicVideoUrl": "https://www.youtube.com/embed/s0g4ty29Xgg"
+      },
+      {
+        "topicName": "Variables",
+        "topicDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas interdum enim eget lectus dapibus, nec ultricies ligula posuere. Nam sed velit accumsan, volutpat eros eu, lacinia ante. Sed id nulla a ex aliquam ultricies. Sed tempus est eu turpis aliquam, in tincidunt leo tincidunt. Nunc lobortis nisl eu dolor maximus luctus. Suspendisse semper non risus ut pretium. Nulla fringilla lorem ac libero ullamcorper dapibus. Mauris porttitor sapien sed scelerisque posuere. Curabitur in elit imperdiet, tempor lorem sit amet, viverra nulla. Nunc elementum, nisi sit amet gravida bibendum, dui libero blandit urna, id convallis turpis massa ut massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "topicVideoUrl": "https://www.youtube.com/embed/fZbSl58orNs"
+      },
+      {
+        "topicName": "Conditions",
+        "topicDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas interdum enim eget lectus dapibus, nec ultricies ligula posuere. Nam sed velit accumsan, volutpat eros eu, lacinia ante. Sed id nulla a ex aliquam ultricies. Sed tempus est eu turpis aliquam, in tincidunt leo tincidunt. Nunc lobortis nisl eu dolor maximus luctus. Suspendisse semper non risus ut pretium. Nulla fringilla lorem ac libero ullamcorper dapibus. Mauris porttitor sapien sed scelerisque posuere. Curabitur in elit imperdiet, tempor lorem sit amet, viverra nulla. Nunc elementum, nisi sit amet gravida bibendum, dui libero blandit urna, id convallis turpis massa ut massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "topicVideoUrl": "https://www.youtube.com/embed/MTjDwDHbcv0"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS205",
+    "courseName": "Object Oriented Programming",
+    "courseDuration": 15,
+    "courseContent": [
+      {
+        "topicName": "Pointers",
+        "topicDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas interdum enim eget lectus dapibus, nec ultricies ligula posuere. Nam sed velit accumsan, volutpat eros eu, lacinia ante. Sed id nulla a ex aliquam ultricies. Sed tempus est eu turpis aliquam, in tincidunt leo tincidunt. Nunc lobortis nisl eu dolor maximus luctus. Suspendisse semper non risus ut pretium. Nulla fringilla lorem ac libero ullamcorper dapibus. Mauris porttitor sapien sed scelerisque posuere. Curabitur in elit imperdiet, tempor lorem sit amet, viverra nulla. Nunc elementum, nisi sit amet gravida bibendum, dui libero blandit urna, id convallis turpis massa ut massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "topicVideoUrl": "https://www.youtube.com/embed/EvYmTCx9BFs"
+      },
+      {
+        "topicName": "Classes",
+        "topicDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas interdum enim eget lectus dapibus, nec ultricies ligula posuere. Nam sed velit accumsan, volutpat eros eu, lacinia ante. Sed id nulla a ex aliquam ultricies. Sed tempus est eu turpis aliquam, in tincidunt leo tincidunt. Nunc lobortis nisl eu dolor maximus luctus. Suspendisse semper non risus ut pretium. Nulla fringilla lorem ac libero ullamcorper dapibus. Mauris porttitor sapien sed scelerisque posuere. Curabitur in elit imperdiet, tempor lorem sit amet, viverra nulla. Nunc elementum, nisi sit amet gravida bibendum, dui libero blandit urna, id convallis turpis massa ut massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "topicVideoUrl": "https://www.youtube.com/embed/zxiYjuLPQBE"
+      },
+      {
+        "topicName": "Function Overloading",
+        "topicDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas interdum enim eget lectus dapibus, nec ultricies ligula posuere. Nam sed velit accumsan, volutpat eros eu, lacinia ante. Sed id nulla a ex aliquam ultricies. Sed tempus est eu turpis aliquam, in tincidunt leo tincidunt. Nunc lobortis nisl eu dolor maximus luctus. Suspendisse semper non risus ut pretium. Nulla fringilla lorem ac libero ullamcorper dapibus. Mauris porttitor sapien sed scelerisque posuere. Curabitur in elit imperdiet, tempor lorem sit amet, viverra nulla. Nunc elementum, nisi sit amet gravida bibendum, dui libero blandit urna, id convallis turpis massa ut massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "topicVideoUrl": "https://www.youtube.com/embed/8qZb09suSHY"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS206",
+    "courseName": "Operating System",
+    "courseDuration": 13,
+    "courseContent": [
+      {
+        "topicName": "Processes",
+        "topicDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas interdum enim eget lectus dapibus, nec ultricies ligula posuere. Nam sed velit accumsan, volutpat eros eu, lacinia ante. Sed id nulla a ex aliquam ultricies. Sed tempus est eu turpis aliquam, in tincidunt leo tincidunt. Nunc lobortis nisl eu dolor maximus luctus. Suspendisse semper non risus ut pretium. Nulla fringilla lorem ac libero ullamcorper dapibus. Mauris porttitor sapien sed scelerisque posuere. Curabitur in elit imperdiet, tempor lorem sit amet, viverra nulla. Nunc elementum, nisi sit amet gravida bibendum, dui libero blandit urna, id convallis turpis massa ut massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "topicVideoUrl": "https://www.youtube.com/embed/OrM7nZcxXZU"
+      },
+      {
+        "topicName": "Threads",
+        "topicDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas interdum enim eget lectus dapibus, nec ultricies ligula posuere. Nam sed velit accumsan, volutpat eros eu, lacinia ante. Sed id nulla a ex aliquam ultricies. Sed tempus est eu turpis aliquam, in tincidunt leo tincidunt. Nunc lobortis nisl eu dolor maximus luctus. Suspendisse semper non risus ut pretium. Nulla fringilla lorem ac libero ullamcorper dapibus. Mauris porttitor sapien sed scelerisque posuere. Curabitur in elit imperdiet, tempor lorem sit amet, viverra nulla. Nunc elementum, nisi sit amet gravida bibendum, dui libero blandit urna, id convallis turpis massa ut massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "topicVideoUrl": "https://www.youtube.com/embed/nlhXqyNUlR4"
+      },
+      {
+        "topicName": "Kernal Overview",
+        "topicDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas interdum enim eget lectus dapibus, nec ultricies ligula posuere. Nam sed velit accumsan, volutpat eros eu, lacinia ante. Sed id nulla a ex aliquam ultricies. Sed tempus est eu turpis aliquam, in tincidunt leo tincidunt. Nunc lobortis nisl eu dolor maximus luctus. Suspendisse semper non risus ut pretium. Nulla fringilla lorem ac libero ullamcorper dapibus. Mauris porttitor sapien sed scelerisque posuere. Curabitur in elit imperdiet, tempor lorem sit amet, viverra nulla. Nunc elementum, nisi sit amet gravida bibendum, dui libero blandit urna, id convallis turpis massa ut massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "topicVideoUrl": "https://www.youtube.com/embed/ZoTxDS87Pyc"
+      }
+    ]
+  },
+  {
+    "courseCode": "CS207",
+    "courseName": "Computer Networks",
+    "courseDuration": 8,
+    "courseContent": [
+      {
+        "topicName": "Network Architecture",
+        "topicDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas interdum enim eget lectus dapibus, nec ultricies ligula posuere. Nam sed velit accumsan, volutpat eros eu, lacinia ante. Sed id nulla a ex aliquam ultricies. Sed tempus est eu turpis aliquam, in tincidunt leo tincidunt. Nunc lobortis nisl eu dolor maximus luctus. Suspendisse semper non risus ut pretium. Nulla fringilla lorem ac libero ullamcorper dapibus. Mauris porttitor sapien sed scelerisque posuere. Curabitur in elit imperdiet, tempor lorem sit amet, viverra nulla. Nunc elementum, nisi sit amet gravida bibendum, dui libero blandit urna, id convallis turpis massa ut massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "topicVideoUrl": "https://www.youtube.com/embed/AwS6JyWFLtA"
+      },
+      {
+        "topicName": "Reliable Data Transfer",
+        "topicDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas interdum enim eget lectus dapibus, nec ultricies ligula posuere. Nam sed velit accumsan, volutpat eros eu, lacinia ante. Sed id nulla a ex aliquam ultricies. Sed tempus est eu turpis aliquam, in tincidunt leo tincidunt. Nunc lobortis nisl eu dolor maximus luctus. Suspendisse semper non risus ut pretium. Nulla fringilla lorem ac libero ullamcorper dapibus. Mauris porttitor sapien sed scelerisque posuere. Curabitur in elit imperdiet, tempor lorem sit amet, viverra nulla. Nunc elementum, nisi sit amet gravida bibendum, dui libero blandit urna, id convallis turpis massa ut massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "topicVideoUrl": "https://www.youtube.com/embed/eq5YpKHXJDM"
+      },
+      {
+        "topicName": "Cryptography",
+        "topicDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas interdum enim eget lectus dapibus, nec ultricies ligula posuere. Nam sed velit accumsan, volutpat eros eu, lacinia ante. Sed id nulla a ex aliquam ultricies. Sed tempus est eu turpis aliquam, in tincidunt leo tincidunt. Nunc lobortis nisl eu dolor maximus luctus. Suspendisse semper non risus ut pretium. Nulla fringilla lorem ac libero ullamcorper dapibus. Mauris porttitor sapien sed scelerisque posuere. Curabitur in elit imperdiet, tempor lorem sit amet, viverra nulla. Nunc elementum, nisi sit amet gravida bibendum, dui libero blandit urna, id convallis turpis massa ut massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "topicVideoUrl": "https://www.youtube.com/embed/trHox1bN5es"
+      }
+    ]
+  }
+]
